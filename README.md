@@ -68,7 +68,7 @@ This project serves as an entertaining collection of interactive games. It is ea
 **Akash S**
 Contact
 Akash S
-LinkedIn: www.linkedin.com/in/akashnb
-Website: www.akashn.com
+- LinkedIn: www.linkedin.com/in/akashnb
+- Website: www.akashn.com
 
 
