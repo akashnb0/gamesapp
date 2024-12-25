@@ -1,6 +1,6 @@
 # Game Collection
 
-#### [Video Demo: https://youtu.be/JrpfecGDbnE](https://youtu.be/JrpfecGDbnE)
+#### [Video Demo: https://youtu.be/AV6A-_ZyJsU](https://youtu.be/AV6A-_ZyJsU)
 
 ## Description
 
